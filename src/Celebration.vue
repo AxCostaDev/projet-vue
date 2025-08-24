@@ -1,7 +1,7 @@
 <template>
   <div class="celebration">
     <h2>🎉 Parabéns!</h2>
-    <p>Você criou seu primeiro projeto Vue com sucesso.</p>
+    <p>meu primeiro projeto Vue com sucesso.</p>
     <p>Continue praticando e evoluindo!</p>
   </div>
 </template>
